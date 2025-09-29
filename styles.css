@@ -13,4 +13,6 @@ footer {
     min-height: 100px;
 }
 
-
+html {
+  box-sizing: border-box;
+}
