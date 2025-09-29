@@ -32,6 +32,10 @@ main {
 .center-column {
     display: block;
     border: 4px solid orchid;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1000px;
+    width: 85%;
 }
 
 section {
