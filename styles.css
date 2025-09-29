@@ -2,6 +2,10 @@ header {
     border: 4px solid lightblue;
 }
 
+main {
+    flex: 1;
+}
+
 .center-column {
     display: block;
     border: 4px solid orchid;
