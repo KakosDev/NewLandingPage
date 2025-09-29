@@ -13,6 +13,11 @@ header {
     display: flex;
 }
 
+a {
+    color: #E5E7EB;
+    text-decoration: none;
+}
+
 main {
     flex: 1;
 }
