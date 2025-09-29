@@ -8,6 +8,10 @@ header {
     display: flex;
     background-color: #1F2937;
     justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-top: 10px;
 }
 
 .header-logo {
@@ -34,8 +38,8 @@ main {
     border: 4px solid orchid;
     margin-right: auto;
     margin-left: auto;
-    max-width: 1200px;
-    width: 90%;
+    max-width: 1000px;
+    width: 95%;
 }
 
 section {
