@@ -37,11 +37,14 @@ main {
     gap: 50px;
     padding-left: 100px;
     padding-right: 100px;
+    flex-wrap: wrap;
+    flex-basis: 50%;
 }
 
 .text-content {
     padding-bottom: 30px;
     padding-top: 10px;
+    max-width: 500px;
 }
 
 h2 {
@@ -50,17 +53,28 @@ h2 {
     font-weight: 900;
 }
 
+p {
+    font-size: 18px;
+    color: #E5E7EB;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 .image-content {
     display: block;
+    display: flex;
+    flex: 1;
+    min-width: 280px;
+    min-height: 200px;
+    justify-content: center;
 }
 
 img {
     display: block;
-    max-width: 300px;
-    max-height: 200px;
+    min-height: 200px;
+    min-width: 280px;
     padding-top: 10px;
     padding-bottom: 30px;
-    margin-right: 100px;
 }
 
 .center-column {
