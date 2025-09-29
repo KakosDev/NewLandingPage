@@ -1,9 +1,5 @@
 @import url(meyer-reset.css);
 
-header {
-    border: 4px solid lightblue;
-}
-
 .header-container {
     display: flex;
     background-color: #1F2937;
