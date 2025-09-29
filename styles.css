@@ -35,6 +35,8 @@ main {
     display: flex;
     background-color: #1F2937;
     gap: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 .image-content {
