@@ -89,6 +89,9 @@ img {
     padding-bottom: 30px;
 }
 
+.info-title {
+    display: flex;
+}
 .center-column {
     display: block;
     border: 4px solid orchid;
