@@ -34,6 +34,7 @@ main {
 .diptych {
     display: flex;
     background-color: #1F2937;
+    gap: 50px;
 }
 
 .image-content {
