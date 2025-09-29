@@ -43,7 +43,7 @@ main {
 
 .text-content {
     padding-bottom: 30px;
-    padding-top: 10px;
+    padding-top: 20px;
     max-width: 500px;
 }
 
@@ -56,8 +56,16 @@ h2 {
 p {
     font-size: 18px;
     color: #E5E7EB;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 12px;
+    padding-bottom: 14px;
+}
+
+button {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    width: 100px;
+    height: 32px
+
 }
 
 .image-content {
