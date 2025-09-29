@@ -4,8 +4,8 @@
     display: flex;
     background-color: #1F2937;
     justify-content: space-between;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
     padding-bottom: 50px;
     padding-top: 10px;
 }
@@ -35,8 +35,8 @@ main {
     display: flex;
     background-color: #1F2937;
     gap: 50px;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .image-content {
@@ -45,10 +45,10 @@ main {
 
 img {
     display: block;
-    width: 300px;
-    height: 200px;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    max-width: 300px;
+    max-height: 200px;
+    padding-top: 10px;
+    padding-bottom: 30px;
     margin-right: 100px;
 }
 
@@ -57,8 +57,8 @@ img {
     border: 4px solid orchid;
     margin-right: auto;
     margin-left: auto;
-    max-width: 1000px;
-    width: 95%;
+    max-width: 1400px;
+    width: 100%;
 }
 
 section {
