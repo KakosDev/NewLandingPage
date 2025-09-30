@@ -94,6 +94,10 @@ img {
     flex-direction: column;
 }
 
+h3 {
+    text-align: center;
+}
+
 .image-boxes {
     display: flex;
 }
