@@ -104,6 +104,7 @@ img {
 
 .empty-cards-container {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     padding-left: 100px;
     padding-right: 100px;
@@ -113,7 +114,7 @@ img {
 .empty-card {
     display: flex;
     flex-direction: column;
-    align-items: center;    
+    align-items: center;  
 }
 
 .empty-card-box {
@@ -125,6 +126,7 @@ img {
 .below-card-text {
   text-align: center;
   width: 300px;
+  color: black;
 }
 
 section {
