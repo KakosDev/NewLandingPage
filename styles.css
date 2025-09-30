@@ -159,6 +159,10 @@ img {
     padding-right: 100px;
 }
 
+.cta-container {
+    display: flex;
+}
+
 section {
     border: 4px solid lightcoral;
 }
