@@ -150,7 +150,7 @@ h5 {
     font-size: 36px;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 360px;
 }
 
 .quote {
@@ -161,6 +161,7 @@ h5 {
     font-size: 36px;
     color: #1F2937;
     font-weight: 300;
+    overflow: auto;
 }
 
 .quote-sign {
