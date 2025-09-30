@@ -149,10 +149,13 @@ img {
     padding-right: 100px;
     margin: auto;
     max-width: 800px;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
 }
 
 .quote-sign {
-    color: black;
+    color: #1F2937;
     font-weight: 900;
     font-size: 30px;
     text-align: right;
