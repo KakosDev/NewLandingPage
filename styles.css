@@ -199,6 +199,15 @@ h4 {
 
 .footer {
     background-color: #1F2937;
+    height: 80px;
+}
+
+.copyright {
+    color: #F9FAF8;
+    display: flex;
+    padding-top: 30px;
+    justify-content: center;
+    font-size: 18px;
 }
 
 html {
