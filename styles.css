@@ -201,8 +201,8 @@ section {
     border: 4px solid lightcoral;
 }
 
-footer {
-    border: 4px solid lightgreen;
+.footer {
+    background-color: #1F2937;
 }
 
 html {
