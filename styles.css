@@ -161,6 +161,40 @@ img {
 
 .cta-container {
     display: flex;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.cta-content-box {
+    display: flex;
+    background-color: #3882F6;
+    flex: 1;
+    padding: 40px 80px 40px 80px;
+    justify-content: space-between;
+    border-radius: 12px;
+}
+
+.cta-text p {
+    padding: 4px 0px 0px 0px
+}
+
+h4 {
+    color: #E5E7EB;
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.cta-button {
+    display: flex;
+    border-color: #E5E7EB;
+    align-items: center;
+    justify-content: center;
+    height: 35px;
+    width: 110px;
+    border: 2px solid #E5E7EB;
+    margin-top: 6px;
 }
 
 section {
