@@ -92,26 +92,39 @@ img {
 .random-info {
     display: flex;
     flex-direction: column;
-}
-
-h3 {
+    justify-content: center;
     text-align: center;
 }
 
-.image-boxes {
+.info-title {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.empty-cards-container {
     display: flex;
     justify-content: center;
-    justify-content: space-evenly;
+    padding-left: 100px;
+    padding-right: 100px;
+    justify-content: space-between;
 }
 
-.image-box {
-    border: 4px solid #3882F6;
-    height: 250px;
-    width: 300px;
+.empty-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
 }
 
-.text {
-    max-width: 200px;
+.empty-card-box {
+  height: 250px;
+  width: 300px;
+  border: 2px solid #3882f6;
+}
+
+.below-card-text {
+  text-align: center;
+  width: 300px;
 }
 
 section {
