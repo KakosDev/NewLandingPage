@@ -98,6 +98,7 @@ img {
     display: flex;
 }
 
+
 .center-column {
     display: block;
     border: 4px solid orchid;
@@ -125,3 +126,5 @@ body {
     min-height: 100vh;
     font-family: Roboto, sans-serif;
 }
+
+
